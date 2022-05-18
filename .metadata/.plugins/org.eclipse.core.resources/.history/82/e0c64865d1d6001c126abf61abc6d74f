@@ -1,0 +1,18 @@
+package projetodh;
+
+import java.util.Scanner;
+
+public class atividadeDeMedia {
+
+	public static void main(String[] args) {
+		
+		Scanner usuario = new Scanner(System.in);
+		
+		double notaUm, notaDois, nota3, media;
+		
+		System.out.println("Digite sua primeira nota");
+		notaUm = 
+		
+	}
+
+}

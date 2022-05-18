@@ -1,0 +1,19 @@
+package projetodh;
+
+import java.util.Scanner;
+
+public class atividadeDeMedia {
+
+	public static void main(String[] args) {
+		
+		Scanner leia = new Scanner(System.in);
+		
+		double primeiraNota, segundaNota, terceiraNota, media;
+		
+		System.out.println("Digite sua primeira nota: ");
+		primeiraNota = new leia.nextDouble;
+		
+
+	}
+
+}
